@@ -1,6 +1,7 @@
 This repository hosts the current Exoworld specifications. Discussions about design rationale and proposed changes can be brought up and discussed as issues. Solidified, agreed-upon changes to the spec can be made through pull requests.
 
 # Exothium World: A Multidimensional Odyssey
+![Exothium World Header](https://github.com/exothium/exoworld-specs/blob/main/final_landscape.png "Exothium World Header")
 
 Dive into the thrilling realms of the Exothium World, where players embark on adventures spanning across various dimensions, reminiscent of the dynamic leagues found in Path of Exile or Runescape. 
 
